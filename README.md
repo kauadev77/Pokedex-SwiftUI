@@ -1,34 +1,39 @@
+# Pokédex em SwiftUI
 
-# 📱 Pokédex em SwiftUI
+Aplicação iOS desenvolvida em **SwiftUI** como projeto prático do programa **Foundation iOS**, com foco em construção de interfaces, navegação e organização de código.
 
-Projeto de Pokédex funcional desenvolvido com SwiftUI como atividade prática para o curso de Foundation IOS.
-
-## 🔍 Funcionalidades
+## Funcionalidades
 
 - Lista de Pokémon com imagem, número e nome
-- Interface responsiva desenvolvida em SwiftUI
-- Visual moderno e simples
-- Código estruturado em pastas
+- Interface responsiva em SwiftUI
+- Navegação entre telas
+- Organização básica seguindo MVVM
+- Uso de assets e componentes nativos do ecossistema Apple
 
-## 🧰 Tecnologias
+## Tecnologias
 
 - Swift 5
 - SwiftUI
 - Xcode
 - MVVM (estrutura básica)
 
-## 📁 Estrutura
+## Estrutura
 
-Pokedex-Apresentacao/
+```text
+Pokedex-SwiftUI/
 ├── pokedex.xcodeproj/
-├── pokedex/
-│   ├── ContentView.swift
-│   ├── pokedexApp.swift
-│   ├── Assets.xcassets/
-│   └── Preview Content/
-├── slides.key (apresentação)
+└── pokedex/
+    ├── ContentView.swift
+    ├── pokedexApp.swift
+    ├── Assets.xcassets/
+    └── Preview Content/
+```
 
-## 👥 Desenvolvedores
+## Contexto
+
+Projeto acadêmico desenvolvido em grupo durante o **Foundation iOS** do TIC em Trilhas.
+
+## Desenvolvedores
 
 - [@kauadev77](https://github.com/kauadev77)
 - [@nicolesofia](https://github.com/nicolesofia)
